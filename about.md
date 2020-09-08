@@ -11,6 +11,6 @@ permalink: /about/
 
 ### 联系我
 
-[annql@qq.com](annql@qq.com)
+[annql@qq.com](https://thispersondoesnotexist.com/)
 
 没事不要联系。大家江湖再见。
