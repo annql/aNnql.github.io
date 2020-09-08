@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Some information about you!
+你好，这里是张狗顺<rt>How lovely my name is.</rt>的老巢。
+此人缺乏创见、善于编织材料、知识视野狭隘，从事较为严肃的书皮学研究，正在学习如何写BUG。
+属契丹型脱发潜在患者，李和曾忠粉，辛宝达不定期颜粉，——康万全是津门第一净，不接受反驳。
 
-### More Information
+### 更多信息
 
-A place to include any other types of information that you'd like to include about yourself.
+此人纯属虚构，如有雷同，你认错人了。
+但还是感谢来访。
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+没事不要联系。大家江湖再见。[点击进入什么也没有的B站主页私信我](https://space.bilibili.com/37984460)
