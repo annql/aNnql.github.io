@@ -18,7 +18,7 @@ Koushun Chang
 + He loves
 <ruby>traveling,<rp>(</rp><rt>on AutoNavi Map</rt><rp>)</rp></ruby> window shopping and long vacation; the history of East Asia and urbanization is also where his passion lies. 
 + He can only speak a little English, Japanese and Manchu.
-+ Now，He is trying to learn web design, graphic design and coding.
++ Now, He is trying to learn web design, graphic design and coding.
 + You can find more about him in the blog.
 
 
