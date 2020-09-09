@@ -9,7 +9,7 @@ name: DRAWER
 description: write for the Drawer.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/annql/annql.github.io/blob/master/images/annql-logo.PNG?raw=true # https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/ANNQL-logo.jpg
+avatar: # https://github.com/annql/annql.github.io/blob/master/images/annql-logo.PNG?raw=true
 
 #
 # Flags below are optional
