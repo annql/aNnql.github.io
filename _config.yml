@@ -49,12 +49,12 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-post_wordcount: 		# 字数统计
-  item_text: true		# 是否显示文字
-  wordcount: true		# 显示字数
-  min2read: true		# 显示阅读时间
-  totalcount: true		# 显示总数
-  separated_meta: true	# 是否分开
+symbols_count_time:
+  symbols: true                # 文章字数统计
+  time: true                   # 文章阅读时长
+  total_symbols: true          # 站点总字数统计
+  total_time: true             # 站点总阅读时长
+  exclude_codeblock: false     # 排除代码字数统计
 
 
 
