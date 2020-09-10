@@ -2,7 +2,7 @@
 layout: post
 title: 掌故
 catalog: true  
-tags: ……
+tags: Story
 ---
 
 &emsp;&emsp;今天下午廖大印来访。
