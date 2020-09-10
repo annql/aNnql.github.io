@@ -49,6 +49,17 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+post_wordcount: 		# 字数统计
+  item_text: true		# 是否显示文字
+  wordcount: true		# 显示字数
+  min2read: true		# 显示阅读时间
+  totalcount: true		# 显示总数
+  separated_meta: true	# 是否分开
+
+
+
+
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
